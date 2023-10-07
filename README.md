@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Self-taught who is interested in all-around software and hardware fields, especially in 
+- Embedded system
+- Robotic system
+- Application system (Webbase, Standalone)
+- IOT
+- AI
+
 <!--
 **marui-obj/marui-obj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
